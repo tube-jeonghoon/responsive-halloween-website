@@ -1,0 +1,24 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "styles.scss",
+        "config/_variables.scss",
+        "base/_base.scss",
+        "layout/_layout.scss",
+        "components/_header.scss",
+        "components/_home.scss",
+        "components/_buttons.scss",
+        "components/_category.scss",
+        "components/_about.scss",
+        "components/_trick.scss",
+        "components/_discount.scss",
+        "components/_new.scss",
+        "components/_newsletter.scss",
+        "components/_footer.scss",
+        "components/_scroll.scss",
+        "components/_breakpoints.scss"
+    ],
+    "names": [],
+    "file": "styles.css"
+}
